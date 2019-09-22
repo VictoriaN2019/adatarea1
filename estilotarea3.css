@@ -11,24 +11,19 @@
             margin-bottom: 15px;
             border: none;
 }
-.cuadroemail { width: 100%;
+.cuadros2{ width: 100%;
             background-color: #f2f2f2;
             padding-left: 15px;
             box-sizing: border-box;
-}
-.cuadropassword { width: 100%;
-                background-color: #f2f2f2;
-                padding-left: 15px;
-                box-sizing: border-box;
 }
 .boton {background-color: #4caf50;
         width: 100%;
         height: 46px;
         color: white;
 }
-* {font-family: "Roboto", sans-serif;
-font-size: 15px;}
-
-.body {text-align: center;
-       margin-top: 220px;}
-
+.body { background-color: #4caf50;
+        text-align: center;
+       margin-top: 220px;
+       font-family: "Roboto", sans-serif;
+       font-size: 15px;
+}
