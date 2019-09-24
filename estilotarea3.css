@@ -13,17 +13,33 @@
 }
 .cuadros2{ width: 100%;
             background-color: #f2f2f2;
-            padding-left: 15px;
+            padding-left: 30px;
             box-sizing: border-box;
 }
-.boton {background-color: #4caf50;
+.boton {background-color:  #76b852;
         width: 100%;
         height: 46px;
         color: white;
+        position: relative;
 }
-.body { background-color: #4caf50;
+.body { background-color: #76b852;
         text-align: center;
        margin-top: 220px;
        font-family: "Roboto", sans-serif;
        font-size: 15px;
 }
+
+button:hover{
+        background-color: #255428;  
+        cursor: pointer; 
+}
+
+.user-n-pass-icon{
+        position: absolute;
+        background:  #f2f2f2;
+        margin-top: 17px;
+        margin-left: -260px;
+        color: #76b852;
+}
+
+
